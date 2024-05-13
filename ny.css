@@ -1,0 +1,7 @@
+body{
+    background-color: pink;
+}
+p{
+    border-style: solid;
+    width: fit-content;
+}

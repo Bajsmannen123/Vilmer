@@ -1,0 +1,13 @@
+@keyframes example{
+    0% {background-color:aqua;}
+    25% {background-color: blueviolet;}
+    50% {background-color: darkgoldenrod;}
+    100% {background-color: hotpink;}}
+
+    h1{width:auto;
+    background-color: aqua;
+    animation-name:example;
+    animation-duration: 4s;}
+body{
+ background-color: pink;
+}
